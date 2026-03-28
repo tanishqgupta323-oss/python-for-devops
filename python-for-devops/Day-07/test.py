@@ -8,4 +8,4 @@ elif type == "t2.large":
     print("it will charge 8 dollar a day")
 
 else:
-    print("give a valid instance type, so we can not create the instant for you") 
+    print("give a valid instance type, so we can not create the instant for you")  
